@@ -1,5 +1,6 @@
 
 import './App.css'
+import './assets/Css/Global.css'
 import { BrowserRouter } from 'react-router-dom'
 import Routing from './assets/Routing/Routing'
 

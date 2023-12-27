@@ -1,0 +1,50 @@
+
+
+
+
+
+.gig-card {
+    width: 25%;
+    box-shadow: 0px 0px 3px rgba(100,106,125, .3);
+}
+.gig-card .gig-banner img{ 
+    width: 100%;
+}
+.gig-banner{
+    position: relative;
+}
+.gig-banner span{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.gig-body{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    text-align: left;
+}
+.user{
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.user img{
+    width: 30px;
+    height: 30px;
+    margin: 0px 5px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+
